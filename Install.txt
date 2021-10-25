@@ -8,6 +8,7 @@ Installation:
 - Clone or Download this repository
 - Unzip the 'Traditional-Nepali-Unicode-for-MAC-OS.zip' and open the folder 'Traditional-Nepali-Unicode-for-MAC-OS'
 - Copy 'Nepali Traditional Unicode.bundle' to '~/Library/Keyboard Layouts' folder of Macintosh System to add the keyboard layout for the current user.
+- Most importantly, after you have installed that keyboard layout, log out and log in again, or restart the computer.
 
 Usage:
 
