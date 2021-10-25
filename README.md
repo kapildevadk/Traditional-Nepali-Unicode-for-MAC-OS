@@ -16,11 +16,11 @@ This keyboard layout is based on the Nepali Unicode Traditional layout by Madan 
 
 
 - Open "System Preferences", and select the "Keyboard"
-- ![System Preferences](https://github.com/kapildevadk/Nepali-Unicode-Traditional-for-MAC-OS/blob/main/images/01-system-preferences.png)
+- ![System Preferences](https://github.com/kapildevadk/Traditional-Nepali-Unicode-for-MAC-OS/tree/main/images/01-system-preferences.png)
 
 - Click on "Input Sources", in the "Input Sources" tab, enable the "Show input in menu bar". 
 - Press the [+] button at the bottom left, and browse and find the newly added नेपाली layout in the 'Nepali' section.
-- ![Layouts - Input Sources](https://github.com/kapildevadk/Nepali-Unicode-Traditional-for-MAC-OS/blob/main/images/02-keyboard-input-sources.png)
+- ![Layouts - Input Sources](https://github.com/kapildevadk/Traditional-Nepali-Unicode-for-MAC-OS/tree/main/images/02-keyboard-input-sources.png)
 
 - Optionaly, click on "Shorcuts", in the "Input Sources" at the left side, setup a keyboard shorcut to switch between the layouts easily.
 - Finally, select the keyboard layout you want to use on the menubar, or use the shorcut.
