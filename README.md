@@ -1,4 +1,4 @@
-# Nepali Unicode Traditional 1.0 for MAC OS (Nepali Unicode Traditional Keyboard Layout 1.0)
+# Nepali Unicode Traditional 1.0 for MAC OS
 
 
 This is a bundle package that installs Traditional Nepali Unicode (Devanagari Unicode Input) Keyboard Layout on a macOS machine.
